@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "DANDELION"]
 	path = DANDELION
-	url = https://github.com/cran/DANDELION
+	url = https://github.com/mxxptian/dandelion
